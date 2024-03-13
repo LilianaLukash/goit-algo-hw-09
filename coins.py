@@ -41,3 +41,4 @@ dp_result = find_min_coins(113)
 print("Жадібний алгоритм:", greedy_result,  "Час ", greedy_timeit)
 print("Динамічне програмування:", dp_result, "Час ", dp_timeit)
 
+  
